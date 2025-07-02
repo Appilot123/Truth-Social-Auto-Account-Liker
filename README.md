@@ -85,7 +85,7 @@
 ## Key Stats: 
 - Automation Accuracy: 98%
 - Session Stability: 24/7 uptime with auto-reconnect
-- Concurrent Account Management: Supports up to 500 simultaneous sessions
+- Concurrent Account Management: Supports up to 100+ simultaneous sessions
 - Human-Action Emulation: 99% of actions indistinguishable from real users
 
 
